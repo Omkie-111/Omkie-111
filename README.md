@@ -105,8 +105,6 @@ Implemented machine learning models for drug screening, improving accuracy by 15
 
 **🏆 Certifications:**
 - Docker Essentials: A Developer Introduction (IBM)
-- AWS Cloud Practitioner (In Progress)
-- Machine Learning Specialization (In Progress)
 
 ---
 
